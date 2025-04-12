@@ -62,5 +62,4 @@ The **Secure IPC Pub/Sub Framework** ensures **efficient, real-time, and attack-
 
 ---
 
-**👤 Author:** Manish Nayak
-
+**👤 Author:** Sandeep Sharma
